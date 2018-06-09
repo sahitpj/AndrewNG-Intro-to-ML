@@ -15,5 +15,3 @@ bower_components
 tmp
 
 # generated output directory
-include
-TextEditor/testing2.py
